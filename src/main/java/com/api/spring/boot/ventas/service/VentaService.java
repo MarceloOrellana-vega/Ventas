@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+// Service para manejar la lógica de negocio de las ventas
 @Service
 public class VentaService {
 
